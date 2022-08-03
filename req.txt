@@ -1,0 +1,1 @@
+I'll want a function where it'll allow a user to connect their metamask wallet & as for the button that has 'MINT' I just want it to work as a payment to the address i provided earlier (0xD98E8ca71F78154eA06E789e82E4a6191aD2863E) Hope that clears everything up slightly smiling face emoji if not let me know!
